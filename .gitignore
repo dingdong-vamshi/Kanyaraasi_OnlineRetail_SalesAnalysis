@@ -1,0 +1,13 @@
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.env
+.venv/
+venv/
+*.log
+create_nb1.py
+create_nb2.py
+create_nb3.py
+create_nb4.py
+create_nb5.py
