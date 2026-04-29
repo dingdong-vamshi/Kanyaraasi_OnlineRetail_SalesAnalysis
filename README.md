@@ -106,13 +106,7 @@ jupyter notebook
 
 ## tableau dashboard
 
-link: [add after publishing on tableau public]
-
----
-
-## github repo
-
-link: https://github.com/dingdong-vamshi/Kanyaraasi_OnlineRetail_SalesAnalysis
+link: [Online Retail Sales Performance Dashboard](https://public.tableau.com/views/KanyaraasiCapstoneDVA/OnlineRetailSalesPerformanceDashboard2?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
