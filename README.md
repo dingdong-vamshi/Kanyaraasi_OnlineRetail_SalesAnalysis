@@ -172,6 +172,6 @@ python, pandas, numpy, matplotlib, seaborn, scipy, scikit-learn, tableau public,
 | Sravnath | 03 | docs/cleaning_log.md | - |
 | Prem | 04 | requirements.txt | - |
 | Rithwik | 04, 05 | docs/kpi_definitions.md | - |
-| Kantrol | 05 | .gitignore | - |
+| Kantrol | 05 |  | - |
 
 declaration: we confirm that the above contribution details are accurate and verifiable through github insights and commit history.
